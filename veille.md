@@ -14,7 +14,7 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://boutique.ed-diamond.com/
 ### Chaines YT ###
 * Xavki
-* lefitre
+* https://www.youtube.com/@LEFILTRE
 * IT connect
 * Stéphane Robert
 * Underscore
@@ -26,4 +26,6 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 ### Musiques ###
 * https://www.youtube.com/@Proximity
 * https://www.youtube.com/@ElectronicGems
-* 
+* https://www.youtube.com/@Freememusicmix
+* https://www.youtube.com/@MrSuicideSheep
+### Twitch ###
