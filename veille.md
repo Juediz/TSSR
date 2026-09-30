@@ -20,6 +20,7 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://www.youtube.com/@cocadmin
 ### Jeux 
 * https://www.kingdomofloathing.com/game.php
+* https://www.crazygames.com/
 ### Généralités 
 *  https://feedly.com/
 ### Musiques 
