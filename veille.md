@@ -19,4 +19,4 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * Underscore
 * cocadmin
 ## Jeux ##
-* (https://objectif2038.net/theinternetismadeofcats/)
+* https://objectif2038.net/theinternetismadeofcats/
