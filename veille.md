@@ -19,7 +19,7 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://www.youtube.com/@Underscore_
 * https://www.youtube.com/@cocadmin
 ### Jeux ###
-* https://objectif2038.net/theinternetismadeofcats/
+* https://www.kingdomofloathing.com/game.php
 ### Généralités ###
 *  https://feedly.com/
 ### Musiques ###
@@ -35,5 +35,7 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://open.spotify.com/show/1439exqfoRXuar3aFvdsLM?si=a6787865cb5942bc
 * https://open.spotify.com/show/5mGyxfslnJGv8X1ToH3eyn?si=649e0a33904a48f8
 * https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX?si=b9a5905e611c492b
+### **Github Thomas professeur** (aide etc) ###
+* https://github.com/thomascherrier/TSSR/commits?author=thomascherrier
 
 `PAUSE`
