@@ -10,9 +10,9 @@
 * Auto-apprentissage : Il désigne la capacité d'un système informatique à apprendre et s'améliorer de manière autonome à partir de données ou d'expériences, sans être explicitement programmé pour chaque tâche.
 * Automatisation : Il  désigne l'utilisation de l'intelligence artificielle pour exécuter des tâches, prendre des décisions ou rationaliser des processus de manière autonome, en remplaçant ou en complétant l'effort humain.
 * Autonomie : Il désigne la capacité d'un système ou d'un agent logiciel à percevoir son environnement, à raisonner, à planifier et à exécuter des actions pour atteindre un objectif donné sans nécessiter d'intervention humaine constante.
-* Base de données : C' est un système de stockage conçu spécifiquement pour gérer des volumes massifs de données complexes et non structurées (textes, images, vidéos, embeddings vectoriels) nécessaires à l'entraînement et à l'exécution des modèles d'intelligence artificielle.
+* Base de données : C' est un système de stockage conçu spécifiquement pour gérer des volumes massifs de données complexes et non structurées (textes, images, vidéos) nécessaires à l'entraînement et à l'exécution des modèles d'intelligence artificielle.
 * Bulle IA : C'est une bulle spéculative financière concernant les entreprises du secteur de l'intelligence artificielle.
-* **CUDA** : Compute Unified Device Architecture (NVIDIA)
+* **CUDA** : Compute Unified Device Architecture  une plateforme de calcul parallèle et un modèle de programmation créé par NVIDIA (NVIDIA)
 * **Distillation** : C'est  une technique d'apprentissage automatique qui consiste à transférer les connaissances d'un grand modèle complexe (appelé le modèle « enseignant » ou « professeur ») vers un modèle plus petit et plus rapide (appelé le modèle « élève »).
 * **Frontière ( modèle)** : C'est un système d'intelligence artificielle qui représente le niveau technologique le plus avancé et le plus performant disponible à un instant donné.
 * Génératif : C'est  est une technologie capable de créer du contenu nouveau et inédit (texte, images, sons, vidéos ou code informatique) à partir de données existantes.
