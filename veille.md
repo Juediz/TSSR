@@ -40,6 +40,6 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://github.com/thomascherrier/TSSR
 * 
 ### L'ia
-**Explosion de L'ia au niveau du prix**
-*Explication de l'ia en local pour savoir ce qui est bon ou pas à faire avec l'ia.
+* **Explosion de L'ia au niveau du prix**
+* Explication de l'ia en local pour savoir ce qui est bon ou pas à faire avec l'ia.
 * site ollama pour l'ia llm
