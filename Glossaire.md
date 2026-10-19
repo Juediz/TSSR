@@ -7,7 +7,7 @@
 * Algorithme : Un algorithme est une suite d'instructions précises et ordonnées qui permet de résoudre un problème ou d'exécuter une tâche à partir de données.
 * **API**: Application Programming Interface ou interface de programmation d'application) est une passerelle logicielle qui permet à deux programmes de communiquer et d'échanger des données de façon automatisée.
 * Machine learning : c'est un champ d'étude de l'intelligence artificielle qui permet aux ordinateurs d'apprendre à partir de données et d'expériences sans avoir été explicitement programmés pour chaque tâche.
-* auto-apprentissage : Il désigne la capacité d'un système informatique à apprendre et s'améliorer de manière autonome à partir de données ou d'expériences, sans être explicitement programmé pour chaque tâche.
+* Auto-apprentissage : Il désigne la capacité d'un système informatique à apprendre et s'améliorer de manière autonome à partir de données ou d'expériences, sans être explicitement programmé pour chaque tâche.
 * Automatisation : Il  désigne l'utilisation de l'intelligence artificielle pour exécuter des tâches, prendre des décisions ou rationaliser des processus de manière autonome, en remplaçant ou en complétant l'effort humain.
 * Autonomie : Il désigne la capacité d'un système ou d'un agent logiciel à percevoir son environnement, à raisonner, à planifier et à exécuter des actions pour atteindre un objectif donné sans nécessiter d'intervention humaine constante.
 * Base de données : C' est un système de stockage conçu spécifiquement pour gérer des volumes massifs de données complexes et non structurées (textes, images, vidéos, embeddings vectoriels) nécessaires à l'entraînement et à l'exécution des modèles d'intelligence artificielle.
