@@ -38,5 +38,7 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX?si=b9a5905e611c492b
 ### **Github Thomas professeur** (aide etc) 
 * https://github.com/thomascherrier/TSSR
-
-`PAUSE`
+* 
+### L'ia
+**Explosion de L'ia au niveau du prix**
+*Explication de l'ia en local pour savoir ce qui est bon ou pas à faire avec l'ia.
