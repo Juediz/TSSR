@@ -12,7 +12,7 @@
 * Autonomie : Il désigne la capacité d'un système ou d'un agent logiciel à percevoir son environnement, à raisonner, à planifier et à exécuter des actions pour atteindre un objectif donné sans nécessiter d'intervention humaine constante.
 * Base de données : C' est un système de stockage conçu spécifiquement pour gérer des volumes massifs de données complexes et non structurées (textes, images, vidéos) nécessaires à l'entraînement et à l'exécution des modèles d'intelligence artificielle.
 * Bulle IA : C'est une bulle spéculative financière concernant les entreprises du secteur de l'intelligence artificielle.
-* **CUDA** : Compute Unified Device Architecture  une plateforme de calcul parallèle et un modèle de programmation créé par NVIDIA (NVIDIA)
+* **CUDA** : Compute Unified Device Architecture  une plateforme de calcul parallèle et un modèle de programmation créé par NVIDIA
 * **Distillation** : C'est  une technique d'apprentissage automatique qui consiste à transférer les connaissances d'un grand modèle complexe (appelé le modèle « enseignant » ou « professeur ») vers un modèle plus petit et plus rapide (appelé le modèle « élève »).
 * **Frontière ( modèle)** : C'est un système d'intelligence artificielle qui représente le niveau technologique le plus avancé et le plus performant disponible à un instant donné.
 * Génératif : C'est  est une technologie capable de créer du contenu nouveau et inédit (texte, images, sons, vidéos ou code informatique) à partir de données existantes.
@@ -27,7 +27,7 @@
 * Mathématiques : Ils forment le socle théorique qui permet aux machines de traiter des données, de reconnaître des motifs, d'apprendre de leurs erreurs et de faire des prédictions.
 * Openclow : C'est un agent d'intelligence artificielle open source et auto-hébergé, créé par Peter Steinberger.
 * Openrouter : C'est une plateforme et une passerelle API unifiée qui permet d'accéder à des centaines de modèles de grands modèles de langage (LLM) via une seule clé API et un point de terminaison unique.
-* Pre-trained : C'est ) est un modèle d'intelligence artificielle ou d'apprentissage automatique qui a déjà été entraîné sur un vaste ensemble de données (corpus de texte, images, code...) pour acquérir des connaissances générales.
+* Pre-trained : C'est un modèle d'intelligence artificielle ou d'apprentissage automatique qui a déjà été entraîné sur un vaste ensemble de données (corpus de texte, images, code...) pour acquérir des connaissances générales.
 * **Prompt** : C'est une instruction, une question ou une requête textuelle adressée à une intelligence artificielle .
 * **RAG** : Retrieval-Augmented Generation ou génération augmentée par récupération. Cela permet de lié un LLM à un réseau sur internet comme un ia.
 * **SLOP** : Le slop IA (ou AI slop) désigne un surplus de contenus numériques de faible qualité, produits en masse à l'aide d'outils d'intelligence artificielle générative.
