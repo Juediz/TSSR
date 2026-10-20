@@ -58,6 +58,8 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * 2007 android
 * 1968 création d'Intel
 * se renseigner sur windows 1 qui tournait en os aprés le msdos.
+* **Sites utile histoire informatique**
+* https://eylenburg.github.io/
 
 
 
