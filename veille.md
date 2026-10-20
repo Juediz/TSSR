@@ -51,6 +51,14 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://ollama.com/download
 
 ### Windows power
+* DWORD = 2word = 4 octets = 32 bits
+* cheat sheet ( pour trouver les racourcis claviers)
+* **shortcut, powertoy run** 
+Windows+L(fermeture session) / Win+r (executer)/ Win+e( aller dans un dossier)/ ctrl+w (fermez toutes les pages)/ Win+x (parametres de démarrer)/ win+p (etendre ou dupliquer écran)/win+d (reduire une fenetre)/win+m (ferme tout).
+
+* **Commandes executer**
+* regedit (registre) / 
+
 * **rom** hardware md
 * 1970 unix système d'exploitation
 * @ est le départ de internet
