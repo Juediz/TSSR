@@ -51,13 +51,14 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://ollama.com/download
 
 ### Windows power
+* POWERTOY RUN
 * DWORD = 2word = 4 octets = 32 bits.
 * cheat sheet ( pour trouver les racourcis claviers etc)
 * **shortcut, powertoy run** 
 Windows+L(fermeture session) / Win+r (executer)/ Win+e( aller dans un dossier)/ ctrl+w (fermez toutes les pages)/ Win+x (parametres de démarrer)/ win+p (etendre ou dupliquer écran)/win+d (reduire une fenetre)/win+m (ferme tout).
 
 * **Commandes executer**
-* regedit (registre) / control (panneaux de configuration) / devmgmt.msc (gestioonnaire des périphériques) / ncpa.cpl (cartes réseau) / gpedit.msc (editeur de strategie) / mstmc (controle a distance) / secpol.msc (stratégie de sécurité locale) / diskmgmt.msc ( gestionnaire des disques) / compmgmt.msc (gestion de l'ordinateur) /.
+* regedit (registre) / control (panneaux de configuration) / devmgmt.msc (gestioonnaire des périphériques) / ncpa.cpl (cartes réseau) / gpedit.msc (editeur de strategie) / mstsc (controle a distance) / secpol.msc (stratégie de sécurité locale) / diskmgmt.msc ( gestionnaire des disques) / compmgmt.msc (gestion de l'ordinateur) / eventvwr.msc (observateur d'évènements) / services.msc (services) / msinfo32 (information système).
 
 * **rom** hardware md
 * 1970 unix système d'exploitation
@@ -68,6 +69,7 @@ Windows+L(fermeture session) / Win+r (executer)/ Win+e( aller dans un dossier)/ 
 * se renseigner sur windows 1 qui tournait en os aprés le msdos.
 * **Sites utile histoire informatique**
 * https://eylenburg.github.io/
+* **mslearn** site a retenir
 
 
 
