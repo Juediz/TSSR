@@ -48,5 +48,17 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 ### llm windows
 * https://korben.info/llama-windows-llm-local.html
 * https://ollama.com/download/windows
+* https://ollama.com/download
+
+### Windows power
+* **rom** hardware md
+* 1970 unix système d'exploitation
+* @ est le départ de internet
+* BSD (child to unix)
+* 2007 android
+* 1968 création d'Intel
+* se renseigner sur windows 1 qui tournait en os aprés le msdos.
+
+
 
 
