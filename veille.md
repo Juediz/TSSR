@@ -38,6 +38,8 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://open.spotify.com/show/25OSac4B0QLqisXfg4hmyX?si=b9a5905e611c492b
 ### **Github Thomas professeur** (aide etc) 
 * https://github.com/thomascherrier/TSSR
+* https://youtu.be/lxo5T3OvnUc?si=Bftls5v4zoOFwlby
+
 ### L'ia
 * **Explosion de L'ia au niveau du prix**
 * Explication de l'ia en local pour savoir ce qui est bon ou pas à faire avec l'ia.
@@ -70,6 +72,7 @@ Windows+L(fermeture session) / Win+r (executer)/ Win+e( aller dans un dossier)/ 
 * **Sites utile histoire informatique**
 * https://eylenburg.github.io/
 * **mslearn** site a retenir
+* a suivre
 
 
 
