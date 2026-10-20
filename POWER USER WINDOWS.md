@@ -9,7 +9,6 @@
 * @ est le départ de internet
 * BSD (child to unix)
 * 2007 android
-* se renseigner sur windows 1 qui tournait en os aprés le msdos.
 
 ## Site ou logiciel utiles pour la formation
 * https://eylenburg.github.io/
