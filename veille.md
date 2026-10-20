@@ -47,4 +47,6 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 
 ### llm windows
 * https://korben.info/llama-windows-llm-local.html
+* https://ollama.com/download/windows
+
 
