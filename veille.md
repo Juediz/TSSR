@@ -42,3 +42,9 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * **Explosion de L'ia au niveau du prix**
 * Explication de l'ia en local pour savoir ce qui est bon ou pas à faire avec l'ia.
 * site ollama pour l'ia llm
+* https://www.cnil.fr/fr/intelligence-artificielle/glossaire-ia
+
+
+### llm windows
+* https://korben.info/llama-windows-llm-local.html
+
