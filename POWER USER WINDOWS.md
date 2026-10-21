@@ -48,3 +48,4 @@
 ## Commandes cmd
 
 | `diskpart ou list disk` | information disque |
+* maj + f10 commande cmd dans l'installation de win11.
