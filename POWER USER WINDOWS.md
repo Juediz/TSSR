@@ -44,3 +44,7 @@
 | `eventvwr.msc` | Observateur d'événements |
 | `services.msc` | Services Windows |
 | `msinfo32` | Informations système |
+
+## Commandes cmd
+
+| `diskpart ou list disk` | information disque |
