@@ -55,8 +55,10 @@ Une veille est un instrument fiable sur différents sites qui permet aux personn
 * https://korben.info/llama-windows-llm-local.html
 * https://ollama.com/download
 
-
-
+## Cours Ventoy
+* https://www.root-me.org/ site pour la cyber
+## Windows serveur 
+* Pour faire du déploiement de windows il faut un dhcp voir un AD et un déploiement de windows appelé **WDS**.
 
 
 * a suivre
